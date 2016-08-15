@@ -1,0 +1,5 @@
+module CDiscount [system] {
+    umbrella header "cdiscount.h"
+    link "markdown"
+    export *
+}
